@@ -1,10 +1,4 @@
 {
-"""smaple1
-    dfdsfsdf
-       - Yoda """:'b',
-""" yoyoyoyo
-        dfksldfksdf
-           - Yoda """:'c',
 """You must unlearn what you have learned.
                                 - Yoda""":'d',
 """No. Not yet. One thing remains.
